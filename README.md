@@ -27,7 +27,7 @@ Workshop01_Web-development-basics/ index.html style.css images/ khalil7.jpeg
 
 The website is published using GitHub Pages.
 
-()
+https://khalilmuhumed.github.io/Workshop01_Web-development-basics/ 
 
 ## Validation
 
